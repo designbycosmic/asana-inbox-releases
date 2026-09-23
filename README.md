@@ -4,7 +4,8 @@ A small Mac app that lives in your menu bar and shows only the places where
 someone @mentioned you in Asana. No task updates, no noise. Reply, react, star
 and flag right from the menu bar, or jump straight to the task in Asana.
 
-Works on macOS 13 (Ventura) or later, on Apple Silicon and Intel Macs.
+Works on Macs with Apple Silicon (M1 or newer) running macOS 13 (Ventura) or
+later.
 
 ## Download
 
